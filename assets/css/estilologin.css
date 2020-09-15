@@ -1,0 +1,34 @@
+body{
+    background-image: url(../img/fondo1.jpg);
+    background-repeat: no-repeat;
+    -webkit-background-size: 100% 100%;         
+    -moz-background-size: 100% 100%;         
+    -o-background-size: 100% 100%;           
+    background-size: cover;           
+    -moz-border-image: url(../img/fondo1.jpg) 0;    /* Gecko 1.9.1 (Firefox 3.5) */
+    
+}
+#logueo{
+    background: white;
+    width: 260px;
+    margin-top:150px;
+    margin-left: 500px;
+    border-radius: 5px ;
+    opacity: 0.7;
+}
+#logueo h1{
+    font-size: 25px;
+    text-align: center;
+    padding: 2px;
+    margin: 2px;
+}
+input, label{
+    font-size: 18px;
+    text-align: center;
+}
+.boton{
+   background: #01B1EA;
+   text-align: center;
+
+  
+}
